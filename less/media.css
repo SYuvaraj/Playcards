@@ -1,0 +1,8 @@
+@media and (max-width: 640px) {
+  .mindreader-container .container .left-block {
+    width: 100%;
+  }
+  .mindreader-container .container .right-block {
+    width: 100%;
+  }
+}

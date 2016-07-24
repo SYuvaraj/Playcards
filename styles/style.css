@@ -1,0 +1,84 @@
+@media (max-width: 1024px) {
+  .mindreader-container .container .left-block {
+    width: 100% !important;
+  }
+  .mindreader-container .container .right-block {
+    width: 100% !important;
+    float: none !important;
+    margin: 0px !important;
+  }
+}
+.mindreader-container h1 {
+  text-align: center;
+}
+.mindreader-container p {
+  text-align: justify;
+}
+.mindreader-container .container {
+  padding: 0px;
+  margin: 0px;
+}
+.mindreader-container .container .left-block {
+  width: 65%;
+  padding: 20px;
+}
+.mindreader-container .container .right-block {
+  width: 35%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block {
+  background-color: green;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row1 .col-xs-6 {
+  width: 33%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row1 .card1 img {
+  width: 100%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row1 .card2 {
+  cursor: pointer;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row1 .card2 img {
+  width: 100%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row1 .card3 {
+  cursor: pointer;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row1 .card3 img {
+  width: 100%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row2 .col-xs-6 {
+  width: 33%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row2 .card1 img {
+  width: 100%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row2 .card2 {
+  cursor: pointer;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row2 .card2 img {
+  width: 100%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row2 .card3 {
+  cursor: pointer;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row2 .card3 img {
+  width: 100%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row3 .col-xs-6 {
+  width: 33%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row3 .card1 img {
+  width: 100%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row3 .card2 {
+  cursor: pointer;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row3 .card2 img {
+  width: 100%;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row3 .card3 {
+  cursor: pointer;
+}
+.mindreader-container .container .right-block .cards .cards-container .cards-block .row3 .card3 img {
+  width: 100%;
+}
